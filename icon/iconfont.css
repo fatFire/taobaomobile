@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1626490447819') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 15px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-search:before {
+  content: "\e65c";
+  margin-right: 5px;
+}
+
+.icon-top:before {
+  content: "\e69e";
+}
+
+.icon-more:before {
+  content: "\e684";
+}
+
+.icon-peoplefill:before {
+  content: "\e735";
+}
+
+.icon-people:before {
+  content: "\e736";
+}
+
+.icon-home_light:before {
+  content: "\e7d4";
+}
+
+.icon-cart_light:before {
+  content: "\e7d6";
+}
+
+.icon-home_fill_light:before {
+  content: "\e7d8";
+}
+
+.icon-cart_fill_light:before {
+  content: "\e7d9";
+}
+
+.icon-more_light:before {
+  content: "\e7e3";
+}
+
+.icon-form_light:before {
+  content: "\e7e8";
+}
+
+.icon-form_fill_light:before {
+  content: "\e7ea";
+}
+
